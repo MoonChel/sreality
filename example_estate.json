@@ -1,0 +1,396 @@
+{
+    "labelsReleased": [
+        [
+            "new_building",
+            "terrace",
+            "garage"
+        ],
+        [
+            "train"
+        ]
+    ],
+    "has_panorama": 0,
+    "labels": [
+        "Novostavba",
+        "Terasa",
+        "Garáž",
+        "Vlak 2 min. pěšky"
+    ],
+    "is_auction": false,
+    "labelsAll": [
+        [
+            "new_building",
+            "personal",
+            "balcony",
+            "terrace",
+            "brick",
+            "elevator",
+            "parking_lots",
+            "garage",
+            "not_furnished"
+        ],
+        [
+            "candy_shop",
+            "movies",
+            "playground",
+            "small_shop",
+            "tavern",
+            "theater",
+            "vet",
+            "kindergarten",
+            "drugstore",
+            "bus_public_transport",
+            "tram",
+            "shop",
+            "school",
+            "restaurant",
+            "atm",
+            "train",
+            "post_office",
+            "medic",
+            "sports"
+        ]
+    ],
+    "seo": {
+        "category_main_cb": 1,
+        "category_sub_cb": 6,
+        "category_type_cb": 1,
+        "locality": "plzen-jizni-predmesti-halkova"
+    },
+    "exclusively_at_rk": 1,
+    "category": 1,
+    "has_floor_plan": 1,
+    "_embedded": {
+        "favourite": {
+            "is_favourite": false,
+            "_links": {
+                "self": {
+                    "profile": "/favourite/doc",
+                    "href": "/cs/v2/favourite/11762268",
+                    "title": "Oblibene inzeraty"
+                }
+            }
+        },
+        "note": {
+            "note": "",
+            "_links": {
+                "self": {
+                    "profile": "/note/doc",
+                    "href": "/cs/v2/note/11762268",
+                    "title": "Poznamky inzeratu"
+                }
+            },
+            "has_note": false
+        },
+        "company": {
+            "www": "http://www.era-reality.cz/era-estate-a-legal/o-kancelari.aspx",
+            "phones": [
+                {
+                    "code": "420",
+                    "type": "TEL",
+                    "number": "739012299"
+                }
+            ],
+            "poi_logo": "",
+            "logo": "https://d48-a.sdn.cz/d_48/c_img_F_E/HwKKJG.png?fl=res,140,140,3,ffffff",
+            "company_subject_id": 4037958,
+            "id": 18494,
+            "ico": 6663184,
+            "locality": {
+                "lat": 50.0840108035,
+                "lon": 14.4419621798
+            },
+            "company_id": 11307,
+            "allow_calculator": 1,
+            "logo_small": "https://d48-a.sdn.cz/d_48/c_img_F_E/HwKKJG.png?fl=res,70,70,1,ffffff",
+            "seznam_naplno": 1,
+            "_links": {
+                "self": {
+                    "profile": "/companies/1/doc",
+                    "href": "/cs/v2/companies/18494?category_main_cb=1&locality_district_id=12&tms=1632290181845&category_sub_cb=5|6|7|8&usable_area=60|10000000000&page=2&per_page=20&locality_region_id=2&category_type_cb=1"
+                }
+            },
+            "retargeting_id": 0,
+            "email": "",
+            "description": "Zabýváme se realitní činností.",
+            "address": "U Rajské zahrady 1912/3, 13000 Praha - Žižkov",
+            "ask": {
+                "opening_time_visible": true,
+                "phones": [
+                    {
+                        "role": "Mobil",
+                        "number": "739012299",
+                        "country_code": "420"
+                    }
+                ],
+                "addr_street": "U Rajské zahrady",
+                "address": "U Rajské zahrady 1912/3, 130 00  Praha, Žižkov",
+                "pie": [
+                    {
+                        "category_main_cb": 1,
+                        "num": 5
+                    },
+                    {
+                        "category_main_cb": 3,
+                        "num": 1
+                    },
+                    {
+                        "category_main_cb": 4,
+                        "num": 2
+                    }
+                ],
+                "opening_time_additional_info": "",
+                "opening_time_st": [
+                    {
+                        "relative_sort": 5,
+                        "exception_id": "",
+                        "day": "monday",
+                        "specification_id": "nonstop",
+                        "date": "2021-09-27",
+                        "additional_info": "",
+                        "nonstop": true
+                    },
+                    {
+                        "relative_sort": 6,
+                        "exception_id": "",
+                        "holiday_info": "Státní svátek, otevírací hodiny se můžou lišit.",
+                        "specification_id": "nonstop",
+                        "date": "2021-09-28",
+                        "additional_info": "",
+                        "day": "tuesday",
+                        "nonstop": true
+                    },
+                    {
+                        "relative_sort": 0,
+                        "exception_id": "",
+                        "day": "wednesday",
+                        "specification_id": "nonstop",
+                        "date": "2021-09-22",
+                        "additional_info": "",
+                        "nonstop": true
+                    },
+                    {
+                        "relative_sort": 1,
+                        "exception_id": "",
+                        "day": "thursday",
+                        "specification_id": "nonstop",
+                        "date": "2021-09-23",
+                        "additional_info": "",
+                        "nonstop": true
+                    },
+                    {
+                        "relative_sort": 2,
+                        "exception_id": "",
+                        "day": "friday",
+                        "specification_id": "nonstop",
+                        "date": "2021-09-24",
+                        "additional_info": "",
+                        "nonstop": true
+                    },
+                    {
+                        "relative_sort": 3,
+                        "exception_id": "",
+                        "day": "saturday",
+                        "specification_id": "nonstop",
+                        "date": "2021-09-25",
+                        "additional_info": "",
+                        "nonstop": true
+                    },
+                    {
+                        "relative_sort": 4,
+                        "exception_id": "",
+                        "day": "sunday",
+                        "specification_id": "nonstop",
+                        "date": "2021-09-26",
+                        "additional_info": "",
+                        "nonstop": true
+                    }
+                ],
+                "photos_url": [],
+                "partners": [],
+                "review_count": 0,
+                "firmy_review_url": "https://www.firmy.cz/detail/13160627-era-estate-a-legal-praha-zizkov.html#pridat-hodnoceni",
+                "emails": [],
+                "offers": [],
+                "stars": -1,
+                "opening_time": [
+                    "1,,,,",
+                    "1,,,,",
+                    "1,,,,",
+                    "1,,,,",
+                    "1,,,,",
+                    "1,,,,",
+                    "1,,,,"
+                ],
+                "email": "eraestateagencylegal@era-reality.cz",
+                "opening_time_today": 2,
+                "description": "Zabýváme se realitní činností.",
+                "photos_premise_url": [
+                    {
+                        "full": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,600,400,3,ffffff",
+                        "description": {
+                            "pid": 70121157,
+                            "yaw": 4.04311326417,
+                            "web_url": "https://www.mapy.cz/zakladni?pano=1&pid=70121157&yaw=4.043113&fov=1.57&pitch=-0.066&z=17&source=firm&id=13160627",
+                            "type": "panorama"
+                        },
+                        "hintGallery": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,1200,900,1",
+                        "big": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg",
+                        "half": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,300,200,3,ffffff",
+                        "list": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,220,147,3,ffffff",
+                        "mapcircle": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,59,59,3,ffffff",
+                        "hintThumbMedium": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,600,400,3",
+                        "small": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,112,84,1,ffffff",
+                        "medium": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,600,450,1,ffffff",
+                        "noborder": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,600,450,3,ffffff",
+                        "hintThumbSmall": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,300,200,3",
+                        "gallery": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,250,167,3,ffffff",
+                        "orig": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg"
+                    }
+                ],
+                "opening_time_next_week": [
+                    {
+                        "relative_sort": 5,
+                        "exception_id": "",
+                        "day": "monday",
+                        "specification_id": "nonstop",
+                        "date": "2021-10-04",
+                        "additional_info": "",
+                        "nonstop": true
+                    },
+                    {
+                        "relative_sort": 6,
+                        "exception_id": "",
+                        "day": "tuesday",
+                        "specification_id": "nonstop",
+                        "date": "2021-10-05",
+                        "additional_info": "",
+                        "nonstop": true
+                    },
+                    {
+                        "relative_sort": 0,
+                        "exception_id": "",
+                        "day": "wednesday",
+                        "specification_id": "nonstop",
+                        "date": "2021-09-29",
+                        "additional_info": "",
+                        "nonstop": true
+                    },
+                    {
+                        "relative_sort": 1,
+                        "exception_id": "",
+                        "day": "thursday",
+                        "specification_id": "nonstop",
+                        "date": "2021-09-30",
+                        "additional_info": "",
+                        "nonstop": true
+                    },
+                    {
+                        "relative_sort": 2,
+                        "exception_id": "",
+                        "day": "friday",
+                        "specification_id": "nonstop",
+                        "date": "2021-10-01",
+                        "additional_info": "",
+                        "nonstop": true
+                    },
+                    {
+                        "relative_sort": 3,
+                        "exception_id": "",
+                        "day": "saturday",
+                        "specification_id": "nonstop",
+                        "date": "2021-10-02",
+                        "additional_info": "",
+                        "nonstop": true
+                    },
+                    {
+                        "relative_sort": 4,
+                        "exception_id": "",
+                        "day": "sunday",
+                        "specification_id": "nonstop",
+                        "date": "2021-10-03",
+                        "additional_info": "",
+                        "nonstop": true
+                    }
+                ],
+                "addr_city": "Praha, Žižkov",
+                "opening_time_today_date": "2021-09-22",
+                "is_paid": true,
+                "reviews": {
+                    "reviews": [],
+                    "reviews_count": 0,
+                    "_links": {
+                        "self": {
+                            "profile": "/companies/1/doc",
+                            "href": "/cs/v2/companies/reviews/18494?category_main_cb=1&locality_district_id=12&tms=1632290181845&category_sub_cb=5|6|7|8&usable_area=60|10000000000&page=2&per_page=20&locality_region_id=2&category_type_cb=1"
+                        }
+                    }
+                },
+                "addr_zip": "13000",
+                "opening_time_description": "Otevírací hodiny",
+                "addr_house_num": "1912/3"
+            },
+            "name": "ERA Estate A. Legal",
+            "url": "ERA-Estate-A-Legal-Praha-Zizkov",
+            "ask_id": 13160627,
+            "company_paid_firmy": 1,
+            "www_visible": "http://www.era-reality.cz/era-estate-a-legal/o-kancelari.aspx"
+        }
+    },
+    "paid_logo": 0,
+    "locality": "Hálkova, Plzeň - Jižní Předměstí",
+    "has_video": false,
+    "_links": {
+        "dynamicDown": [
+            {
+                "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_JU/3NMTJ2.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+            }
+        ],
+        "dynamicUp": [
+            {
+                "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_JU/3NMTJ2.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+            }
+        ],
+        "iterator": {
+            "href": "/cs/v2/estate-iterator/20?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+        },
+        "self": {
+            "href": "/cs/v2/estates/11762268?region_tip=1128574"
+        },
+        "images": [
+            {
+                "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_JU/3NMTJ2.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+                "href": "https://d18-a.sdn.cz/d_18/c_img_QO_KX/UV4TJ6.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+                "href": "https://d18-a.sdn.cz/d_18/c_img_QP_Kg/POKTKX.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+        ],
+        "image_middle2": [
+            {
+                "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_JU/3NMTJ2.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+        ]
+    },
+    "new": false,
+    "auctionPrice": 0,
+    "type": 1,
+    "hash_id": 11762268,
+    "attractive_offer": 0,
+    "price": 8862896,
+    "price_czk": {
+        "value_raw": 8862896,
+        "unit": "",
+        "name": "Celková cena"
+    },
+    "rus": false,
+    "name": "Prodej bytu 3+kk 123 m²",
+    "region_tip": 1128574,
+    "gps": {
+        "lat": 49.741089,
+        "lon": 13.36614
+    },
+    "has_matterport_url": false
+}

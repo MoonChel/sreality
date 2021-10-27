@@ -1,0 +1,3162 @@
+{
+    "meta_description": "73 realit v nabídce prodej bytů Plzeň-město s požadavky: 2+1, 3+kk, 3+1, 4+kk, plocha od 60 m². Vyberte si novou nemovitost na sreality.cz s hledáním na mapě a velkými náhledy fotografií nabízených bytů.",
+    "result_size": 73,
+    "_embedded": {
+        "estates": [
+            {
+                "labelsReleased": [
+                    [
+                        "new_building",
+                        "terrace",
+                        "garage"
+                    ],
+                    [
+                        "train"
+                    ]
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Novostavba",
+                    "Terasa",
+                    "Garáž",
+                    "Vlak 2 min. pěšky"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "new_building",
+                        "personal",
+                        "balcony",
+                        "terrace",
+                        "brick",
+                        "elevator",
+                        "parking_lots",
+                        "garage",
+                        "not_furnished"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "kindergarten",
+                        "drugstore",
+                        "bus_public_transport",
+                        "tram",
+                        "shop",
+                        "school",
+                        "restaurant",
+                        "atm",
+                        "train",
+                        "post_office",
+                        "medic",
+                        "sports"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 6,
+                    "category_type_cb": 1,
+                    "locality": "plzen-jizni-predmesti-halkova"
+                },
+                "exclusively_at_rk": 1,
+                "category": 1,
+                "has_floor_plan": 1,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/11762268",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/11762268",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    },
+                    "company": {
+                        "www": "http://www.era-reality.cz/era-estate-a-legal/o-kancelari.aspx",
+                        "phones": [
+                            {
+                                "code": "420",
+                                "type": "TEL",
+                                "number": "739012299"
+                            }
+                        ],
+                        "poi_logo": "",
+                        "logo": "https://d48-a.sdn.cz/d_48/c_img_F_E/HwKKJG.png?fl=res,140,140,3,ffffff",
+                        "company_subject_id": 4037958,
+                        "id": 18494,
+                        "ico": 6663184,
+                        "locality": {
+                            "lat": 50.0840108035,
+                            "lon": 14.4419621798
+                        },
+                        "company_id": 11307,
+                        "allow_calculator": 1,
+                        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_F_E/HwKKJG.png?fl=res,70,70,1,ffffff",
+                        "seznam_naplno": 1,
+                        "_links": {
+                            "self": {
+                                "profile": "/companies/1/doc",
+                                "href": "/cs/v2/companies/18494?category_main_cb=1&locality_district_id=12&tms=1632290181845&category_sub_cb=5|6|7|8&usable_area=60|10000000000&page=2&per_page=20&locality_region_id=2&category_type_cb=1"
+                            }
+                        },
+                        "retargeting_id": 0,
+                        "email": "",
+                        "description": "Zabýváme se realitní činností.",
+                        "address": "U Rajské zahrady 1912/3, 13000 Praha - Žižkov",
+                        "ask": {
+                            "opening_time_visible": true,
+                            "phones": [
+                                {
+                                    "role": "Mobil",
+                                    "number": "739012299",
+                                    "country_code": "420"
+                                }
+                            ],
+                            "addr_street": "U Rajské zahrady",
+                            "address": "U Rajské zahrady 1912/3, 130 00  Praha, Žižkov",
+                            "pie": [
+                                {
+                                    "category_main_cb": 1,
+                                    "num": 5
+                                },
+                                {
+                                    "category_main_cb": 3,
+                                    "num": 1
+                                },
+                                {
+                                    "category_main_cb": 4,
+                                    "num": 2
+                                }
+                            ],
+                            "opening_time_additional_info": "",
+                            "opening_time_st": [
+                                {
+                                    "relative_sort": 5,
+                                    "exception_id": "",
+                                    "day": "monday",
+                                    "specification_id": "nonstop",
+                                    "date": "2021-09-27",
+                                    "additional_info": "",
+                                    "nonstop": true
+                                },
+                                {
+                                    "relative_sort": 6,
+                                    "exception_id": "",
+                                    "holiday_info": "Státní svátek, otevírací hodiny se můžou lišit.",
+                                    "specification_id": "nonstop",
+                                    "date": "2021-09-28",
+                                    "additional_info": "",
+                                    "day": "tuesday",
+                                    "nonstop": true
+                                },
+                                {
+                                    "relative_sort": 0,
+                                    "exception_id": "",
+                                    "day": "wednesday",
+                                    "specification_id": "nonstop",
+                                    "date": "2021-09-22",
+                                    "additional_info": "",
+                                    "nonstop": true
+                                },
+                                {
+                                    "relative_sort": 1,
+                                    "exception_id": "",
+                                    "day": "thursday",
+                                    "specification_id": "nonstop",
+                                    "date": "2021-09-23",
+                                    "additional_info": "",
+                                    "nonstop": true
+                                },
+                                {
+                                    "relative_sort": 2,
+                                    "exception_id": "",
+                                    "day": "friday",
+                                    "specification_id": "nonstop",
+                                    "date": "2021-09-24",
+                                    "additional_info": "",
+                                    "nonstop": true
+                                },
+                                {
+                                    "relative_sort": 3,
+                                    "exception_id": "",
+                                    "day": "saturday",
+                                    "specification_id": "nonstop",
+                                    "date": "2021-09-25",
+                                    "additional_info": "",
+                                    "nonstop": true
+                                },
+                                {
+                                    "relative_sort": 4,
+                                    "exception_id": "",
+                                    "day": "sunday",
+                                    "specification_id": "nonstop",
+                                    "date": "2021-09-26",
+                                    "additional_info": "",
+                                    "nonstop": true
+                                }
+                            ],
+                            "photos_url": [],
+                            "partners": [],
+                            "review_count": 0,
+                            "firmy_review_url": "https://www.firmy.cz/detail/13160627-era-estate-a-legal-praha-zizkov.html#pridat-hodnoceni",
+                            "emails": [],
+                            "offers": [],
+                            "stars": -1,
+                            "opening_time": [
+                                "1,,,,",
+                                "1,,,,",
+                                "1,,,,",
+                                "1,,,,",
+                                "1,,,,",
+                                "1,,,,",
+                                "1,,,,"
+                            ],
+                            "email": "eraestateagencylegal@era-reality.cz",
+                            "opening_time_today": 2,
+                            "description": "Zabýváme se realitní činností.",
+                            "photos_premise_url": [
+                                {
+                                    "full": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,600,400,3,ffffff",
+                                    "description": {
+                                        "pid": 70121157,
+                                        "yaw": 4.04311326417,
+                                        "web_url": "https://www.mapy.cz/zakladni?pano=1&pid=70121157&yaw=4.043113&fov=1.57&pitch=-0.066&z=17&source=firm&id=13160627",
+                                        "type": "panorama"
+                                    },
+                                    "hintGallery": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,1200,900,1",
+                                    "big": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg",
+                                    "half": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,300,200,3,ffffff",
+                                    "list": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,220,147,3,ffffff",
+                                    "mapcircle": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,59,59,3,ffffff",
+                                    "hintThumbMedium": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,600,400,3",
+                                    "small": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,112,84,1,ffffff",
+                                    "medium": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,600,450,1,ffffff",
+                                    "noborder": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,600,450,3,ffffff",
+                                    "hintThumbSmall": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,300,200,3",
+                                    "gallery": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg?fl=res,250,167,3,ffffff",
+                                    "orig": "https://d48-a.sdn.cz/d_48/c_img_H_H/AHjmfw.jpeg"
+                                }
+                            ],
+                            "opening_time_next_week": [
+                                {
+                                    "relative_sort": 5,
+                                    "exception_id": "",
+                                    "day": "monday",
+                                    "specification_id": "nonstop",
+                                    "date": "2021-10-04",
+                                    "additional_info": "",
+                                    "nonstop": true
+                                },
+                                {
+                                    "relative_sort": 6,
+                                    "exception_id": "",
+                                    "day": "tuesday",
+                                    "specification_id": "nonstop",
+                                    "date": "2021-10-05",
+                                    "additional_info": "",
+                                    "nonstop": true
+                                },
+                                {
+                                    "relative_sort": 0,
+                                    "exception_id": "",
+                                    "day": "wednesday",
+                                    "specification_id": "nonstop",
+                                    "date": "2021-09-29",
+                                    "additional_info": "",
+                                    "nonstop": true
+                                },
+                                {
+                                    "relative_sort": 1,
+                                    "exception_id": "",
+                                    "day": "thursday",
+                                    "specification_id": "nonstop",
+                                    "date": "2021-09-30",
+                                    "additional_info": "",
+                                    "nonstop": true
+                                },
+                                {
+                                    "relative_sort": 2,
+                                    "exception_id": "",
+                                    "day": "friday",
+                                    "specification_id": "nonstop",
+                                    "date": "2021-10-01",
+                                    "additional_info": "",
+                                    "nonstop": true
+                                },
+                                {
+                                    "relative_sort": 3,
+                                    "exception_id": "",
+                                    "day": "saturday",
+                                    "specification_id": "nonstop",
+                                    "date": "2021-10-02",
+                                    "additional_info": "",
+                                    "nonstop": true
+                                },
+                                {
+                                    "relative_sort": 4,
+                                    "exception_id": "",
+                                    "day": "sunday",
+                                    "specification_id": "nonstop",
+                                    "date": "2021-10-03",
+                                    "additional_info": "",
+                                    "nonstop": true
+                                }
+                            ],
+                            "addr_city": "Praha, Žižkov",
+                            "opening_time_today_date": "2021-09-22",
+                            "is_paid": true,
+                            "reviews": {
+                                "reviews": [],
+                                "reviews_count": 0,
+                                "_links": {
+                                    "self": {
+                                        "profile": "/companies/1/doc",
+                                        "href": "/cs/v2/companies/reviews/18494?category_main_cb=1&locality_district_id=12&tms=1632290181845&category_sub_cb=5|6|7|8&usable_area=60|10000000000&page=2&per_page=20&locality_region_id=2&category_type_cb=1"
+                                    }
+                                }
+                            },
+                            "addr_zip": "13000",
+                            "opening_time_description": "Otevírací hodiny",
+                            "addr_house_num": "1912/3"
+                        },
+                        "name": "ERA Estate A. Legal",
+                        "url": "ERA-Estate-A-Legal-Praha-Zizkov",
+                        "ask_id": 13160627,
+                        "company_paid_firmy": 1,
+                        "www_visible": "http://www.era-reality.cz/era-estate-a-legal/o-kancelari.aspx"
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "Hálkova, Plzeň - Jižní Předměstí",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_JU/3NMTJ2.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_JU/3NMTJ2.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/20?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/11762268?region_tip=1128574"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_JU/3NMTJ2.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QO_KX/UV4TJ6.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QP_Kg/POKTKX.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_JU/3NMTJ2.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 11762268,
+                "attractive_offer": 0,
+                "price": 8862896,
+                "price_czk": {
+                    "value_raw": 8862896,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 3+kk 123 m²",
+                "region_tip": 1128574,
+                "gps": {
+                    "lat": 49.741089,
+                    "lon": 13.36614
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [
+                        "loggia",
+                        "not_furnished"
+                    ],
+                    [
+                        "post_office"
+                    ]
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Lodžie",
+                    "Nevybavený",
+                    "Pošta 5 min. pěšky"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "loggia",
+                        "panel",
+                        "cellar",
+                        "elevator",
+                        "not_furnished"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "medic",
+                        "shop",
+                        "bus_public_transport",
+                        "post_office",
+                        "drugstore",
+                        "school",
+                        "atm",
+                        "sports",
+                        "restaurant",
+                        "train",
+                        "tram",
+                        "kindergarten"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 5,
+                    "category_type_cb": 1,
+                    "locality": "plzen-jizni-predmesti-skupova"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 1,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/3936238428",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/3936238428",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "Skupova, Plzeň - Jižní Předměstí",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QI_JP/4a2TaM.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QI_JP/4a2TaM.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/21?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/3936238428"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QI_JP/4a2TaM.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QP_Kg/Y06Tc3.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gV_e/139Q8J.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QI_JP/4a2TaM.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 3936238428,
+                "attractive_offer": 0,
+                "price": 3360000,
+                "price_czk": {
+                    "value_raw": 3360000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 2+1 69 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.725502,
+                    "lon": 13.375173
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [],
+                    [
+                        "train"
+                    ]
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Vlak 7 min. pěšky"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "balcony",
+                        "brick",
+                        "cellar",
+                        "parking_lots",
+                        "furnished"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "train",
+                        "atm",
+                        "school",
+                        "sports",
+                        "restaurant",
+                        "bus_public_transport",
+                        "tram",
+                        "shop",
+                        "drugstore",
+                        "medic",
+                        "post_office",
+                        "kindergarten"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 5,
+                    "category_type_cb": 1,
+                    "locality": "plzen-doubravka-nad-tyncem"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 1,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/1670331228",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/1670331228",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "Nad Týncem, Plzeň - Doubravka",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gY_e/3lhT5v.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gY_e/3lhT5v.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/22?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/1670331228"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gY_e/3lhT5v.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gX_d/CEGT7m.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gX_d/CciT7n.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gY_e/3lhT5v.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 1670331228,
+                "attractive_offer": 0,
+                "price": 3630000,
+                "price_czk": {
+                    "value_raw": 3630000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 2+1 68 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.761116,
+                    "lon": 13.416023
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [
+                        "partly_furnished"
+                    ],
+                    [
+                        "train"
+                    ]
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Částečně vybavený",
+                    "Vlak 7 min. pěšky"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "balcony",
+                        "brick",
+                        "cellar",
+                        "elevator",
+                        "partly_furnished"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "restaurant",
+                        "medic",
+                        "kindergarten",
+                        "atm",
+                        "train",
+                        "post_office",
+                        "bus_public_transport",
+                        "sports",
+                        "drugstore",
+                        "school",
+                        "tram",
+                        "shop"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 5,
+                    "category_type_cb": 1,
+                    "locality": "plzen-doubravka-nad-tyncem"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 0,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/1508850524",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/1508850524",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "Nad Týncem, Plzeň - Doubravka",
+                "has_video": true,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jj/nH3TMt.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jj/nH3TMt.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/23?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/1508850524"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jj/nH3TMt.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/vnuTOu.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_JP/FtRTLk.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jj/nH3TMt.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 1508850524,
+                "attractive_offer": 0,
+                "price": 3630000,
+                "price_czk": {
+                    "value_raw": 3630000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 2+1 68 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.761116,
+                    "lon": 13.416023
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [],
+                    []
+                ],
+                "has_panorama": 0,
+                "labels": [],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "balcony",
+                        "brick"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "kindergarten",
+                        "bus_public_transport",
+                        "drugstore",
+                        "shop",
+                        "sports",
+                        "tram",
+                        "train",
+                        "atm",
+                        "post_office",
+                        "school",
+                        "restaurant",
+                        "medic"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 7,
+                    "category_type_cb": 1,
+                    "locality": "plzen-severni-predmesti-pod-zahorskem"
+                },
+                "exclusively_at_rk": 1,
+                "category": 1,
+                "has_floor_plan": 0,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/215669596",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/215669596",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    },
+                    "company": {
+                        "url": "Trendy-Reality-s-r-o-Plzen-Severni-Predmesti",
+                        "id": 15207,
+                        "name": "Trendy Reality s.r.o.",
+                        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_G_C/lVWBsk5.png?fl=res,140,140,3,ffffff"
+                    }
+                },
+                "paid_logo": 1,
+                "locality": "Pod Záhorskem, Plzeň - Severní Předměstí",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QR_Lu/cSyWiB.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QR_Lu/cSyWiB.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/24?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/215669596"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QR_Lu/cSyWiB.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_JU/Nd8Wjo.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_JP/9YtWkk.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QR_Lu/cSyWiB.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 215669596,
+                "attractive_offer": 0,
+                "price": 4500000,
+                "price_czk": {
+                    "value_raw": 4500000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 3+1 96 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.758789,
+                    "lon": 13.373212
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [
+                        "loggia"
+                    ],
+                    [
+                        "post_office"
+                    ]
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Lodžie",
+                    "Pošta 3 min. pěšky"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "loggia",
+                        "panel",
+                        "cellar",
+                        "elevator",
+                        "parking_lots",
+                        "furnished"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "drugstore",
+                        "kindergarten",
+                        "bus_public_transport",
+                        "tram",
+                        "atm",
+                        "restaurant",
+                        "post_office",
+                        "sports",
+                        "shop",
+                        "medic",
+                        "school",
+                        "train"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 7,
+                    "category_type_cb": 1,
+                    "locality": "plzen-severni-predmesti-hodoninska"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 1,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/2461612892",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/2461612892",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "Hodonínská, Plzeň - Severní Předměstí",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/Oy5UAe.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/Oy5UAe.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/25?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/2461612892"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/Oy5UAe.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_JU/T94T4v.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/jF2UAf.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/Oy5UAe.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 2461612892,
+                "attractive_offer": 0,
+                "price": 4590000,
+                "price_czk": {
+                    "value_raw": 4590000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 3+1 78 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.762646,
+                    "lon": 13.354028
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [
+                        "after_reconstruction",
+                        "not_furnished"
+                    ],
+                    [
+                        "train"
+                    ]
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Po rekonstrukci",
+                    "Nevybavený",
+                    "Vlak 5 min. pěšky"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "after_reconstruction",
+                        "brick",
+                        "cellar",
+                        "elevator",
+                        "parking_lots",
+                        "not_furnished"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "restaurant",
+                        "post_office",
+                        "train",
+                        "school",
+                        "kindergarten",
+                        "shop",
+                        "medic",
+                        "bus_public_transport",
+                        "drugstore",
+                        "tram",
+                        "atm",
+                        "sports"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 5,
+                    "category_type_cb": 1,
+                    "locality": "plzen-doubravka-lazaretni"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 1,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/2093804380",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/2093804380",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "Lazaretní, Plzeň - Doubravka",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/7hUG1j.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/7hUG1j.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/26?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/2093804380"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/7hUG1j.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QI_JP/0SCGyk.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gR_c/C10Gur.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/7hUG1j.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 2093804380,
+                "attractive_offer": 0,
+                "price": 4699000,
+                "price_czk": {
+                    "value_raw": 4699000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 2+1 68 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.760151,
+                    "lon": 13.414604
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [],
+                    [
+                        "post_office"
+                    ]
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Pošta 4 min. pěšky"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "brick"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "sports",
+                        "tram",
+                        "restaurant",
+                        "medic",
+                        "kindergarten",
+                        "drugstore",
+                        "atm",
+                        "train",
+                        "school",
+                        "shop",
+                        "bus_public_transport",
+                        "post_office"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 5,
+                    "category_type_cb": 1,
+                    "locality": "plzen-jizni-predmesti-u-trati"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 0,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/2906274652",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/2906274652",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "U Trati, Plzeň - Jižní Předměstí",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gW_d/dhrUKw.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gW_d/dhrUKw.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/27?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/2906274652"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gW_d/dhrUKw.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gU_d/vaWUNg.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gU_d/l9VUNh.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gW_d/dhrUKw.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 2906274652,
+                "attractive_offer": 0,
+                "price": 3850000,
+                "price_czk": {
+                    "value_raw": 3850000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 2+1 95 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.740112,
+                    "lon": 13.377006
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [
+                        "not_furnished"
+                    ],
+                    [
+                        "shop"
+                    ]
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Nevybavený",
+                    "Obchod 3 min. pěšky"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "panel",
+                        "cellar",
+                        "elevator",
+                        "parking_lots",
+                        "not_furnished"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "medic",
+                        "drugstore",
+                        "atm",
+                        "tram",
+                        "shop",
+                        "bus_public_transport",
+                        "post_office",
+                        "sports",
+                        "school",
+                        "restaurant",
+                        "train",
+                        "kindergarten"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 7,
+                    "category_type_cb": 1,
+                    "locality": "plzen-vychodni-predmesti-namesti-generala-piky"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 0,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/3290364764",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/3290364764",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "náměstí Generála Píky, Plzeň - Východní Předměstí",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jl/xTHB1E.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jl/xTHB1E.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/28?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/3290364764"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jl/xTHB1E.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gR_c/5j9B3b.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gW_d/ZgdB4H.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jl/xTHB1E.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 3290364764,
+                "attractive_offer": 0,
+                "price": 4200000,
+                "price_czk": {
+                    "value_raw": 4200000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 3+1 70 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.732288,
+                    "lon": 13.400017
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [
+                        "loggia"
+                    ],
+                    []
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Lodžie"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "loggia",
+                        "panel",
+                        "cellar",
+                        "elevator",
+                        "parking_lots",
+                        "furnished"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "sports",
+                        "tram",
+                        "restaurant",
+                        "shop",
+                        "atm",
+                        "drugstore",
+                        "bus_public_transport",
+                        "school",
+                        "medic",
+                        "train",
+                        "post_office",
+                        "kindergarten"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 7,
+                    "category_type_cb": 1,
+                    "locality": "plzen-bolevec-touzimska"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 1,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/1215973980",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/1215973980",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "Toužimská, Plzeň - Bolevec",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gU_c/5xOSqt.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gU_c/5xOSqt.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/29?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/1215973980"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gU_c/5xOSqt.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gX_c/uFTSsV.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gY_d/KbrStI.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gU_c/5xOSqt.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 1215973980,
+                "attractive_offer": 0,
+                "price": 4999999,
+                "price_czk": {
+                    "value_raw": 4999999,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 3+1 68 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.777397,
+                    "lon": 13.35577
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [
+                        "new_building",
+                        "garage"
+                    ],
+                    []
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Novostavba",
+                    "Garáž"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "new_building",
+                        "personal",
+                        "balcony",
+                        "cellar",
+                        "elevator",
+                        "garage"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "atm",
+                        "school",
+                        "bus_public_transport",
+                        "post_office",
+                        "train",
+                        "medic",
+                        "tram",
+                        "kindergarten",
+                        "sports",
+                        "restaurant",
+                        "shop",
+                        "drugstore"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 8,
+                    "category_type_cb": 1,
+                    "locality": "plzen-skvrnany-vojanova"
+                },
+                "exclusively_at_rk": 1,
+                "category": 1,
+                "has_floor_plan": 1,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/3517188700",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/3517188700",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    },
+                    "company": {
+                        "url": "Trigema-a-s-Praha-Stodulky",
+                        "id": 2995,
+                        "name": "Trigema, a.s.",
+                        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_gW_f/UoZMGF.png?fl=res,140,140,3,ffffff"
+                    }
+                },
+                "paid_logo": 1,
+                "locality": "Vojanova, Plzeň - Skvrňany",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jj/20eQ8c.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jj/20eQ8c.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/30?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/3517188700"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jj/20eQ8c.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gX_d/wh0RFX.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QI_JP/qrHQ3I.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jj/20eQ8c.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 3517188700,
+                "attractive_offer": 0,
+                "price": 7645751,
+                "price_czk": {
+                    "value_raw": 7645751,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 4+kk 107 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.745949,
+                    "lon": 13.322227
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [],
+                    [
+                        "train",
+                        "post_office"
+                    ]
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Vlak 8 min. pěšky",
+                    "Pošta 7 min. pěšky"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "balcony",
+                        "cellar",
+                        "elevator",
+                        "parking_lots",
+                        "furnished"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "drugstore",
+                        "post_office",
+                        "sports",
+                        "school",
+                        "medic",
+                        "shop",
+                        "restaurant",
+                        "atm",
+                        "kindergarten",
+                        "bus_public_transport",
+                        "train",
+                        "tram"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 6,
+                    "category_type_cb": 1,
+                    "locality": "plzen-vychodni-predmesti-u-jeziska"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 1,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/397790044",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/397790044",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "U Ježíška, Plzeň - Východní Předměstí",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gV_e/CQ8QCA.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gV_e/CQ8QCA.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/31?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/397790044"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gV_e/CQ8QCA.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gX_d/FQvS1H.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gV_e/vAmQCB.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gV_e/CQ8QCA.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 397790044,
+                "attractive_offer": 0,
+                "price": 6190000,
+                "price_czk": {
+                    "value_raw": 6190000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 3+kk 72 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.740677,
+                    "lon": 13.385313
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [
+                        "not_furnished"
+                    ],
+                    []
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Nevybavený"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "brick",
+                        "parking_lots",
+                        "not_furnished"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "tram",
+                        "kindergarten",
+                        "sports",
+                        "school",
+                        "restaurant",
+                        "shop",
+                        "bus_public_transport",
+                        "train",
+                        "medic",
+                        "post_office",
+                        "atm",
+                        "drugstore"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 5,
+                    "category_type_cb": 1,
+                    "locality": "plzen-bozkov-k-sadu"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 1,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/1400494940",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/1400494940",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    },
+                    "company": {
+                        "url": "Bidli-Praha-Nove-Mesto",
+                        "id": 17843,
+                        "name": "Bidli",
+                        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_F_K/EbiBQY.png?fl=res,140,140,3,ffffff"
+                    }
+                },
+                "paid_logo": 1,
+                "locality": "K Sadu, Plzeň - Božkov",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jl/Bi2JVJ.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jl/Bi2JVJ.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/32?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/1400494940"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jl/Bi2JVJ.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jl/sYRJVK.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QO_KX/luCJTV.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jl/Bi2JVJ.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 1400494940,
+                "attractive_offer": 0,
+                "price": 6500000,
+                "price_czk": {
+                    "value_raw": 6500000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 2+1 63 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.733593,
+                    "lon": 13.423977
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [
+                        "new_building",
+                        "garage"
+                    ],
+                    []
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Novostavba",
+                    "Garáž"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "new_building",
+                        "personal",
+                        "balcony",
+                        "cellar",
+                        "elevator",
+                        "garage"
+                    ],
+                    [
+                        "candy_shop",
+                        "playground",
+                        "movies",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "school",
+                        "atm",
+                        "medic",
+                        "train",
+                        "restaurant",
+                        "kindergarten",
+                        "drugstore",
+                        "sports",
+                        "bus_public_transport",
+                        "post_office",
+                        "tram",
+                        "shop"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 6,
+                    "category_type_cb": 1,
+                    "locality": "plzen-skvrnany-vojanova"
+                },
+                "exclusively_at_rk": 1,
+                "category": 1,
+                "has_floor_plan": 1,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/27527772",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/27527772",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    },
+                    "company": {
+                        "url": "Trigema-a-s-Praha-Stodulky",
+                        "id": 2995,
+                        "name": "Trigema, a.s.",
+                        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_gW_f/UoZMGF.png?fl=res,140,140,3,ffffff"
+                    }
+                },
+                "paid_logo": 1,
+                "locality": "Vojanova, Plzeň - Skvrňany",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_JP/f6iQ7t.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_JP/f6iQ7t.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/33?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/27527772"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_JP/f6iQ7t.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gU_d/1HlREX.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QL_Jl/2sjQ5i.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_JP/f6iQ7t.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 27527772,
+                "attractive_offer": 0,
+                "price": 5473093,
+                "price_czk": {
+                    "value_raw": 5473093,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 3+kk 73 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.745949,
+                    "lon": 13.322227
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [
+                        "new_building"
+                    ],
+                    []
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Novostavba"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "new_building",
+                        "personal",
+                        "brick"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "bus_public_transport",
+                        "post_office",
+                        "tram",
+                        "drugstore",
+                        "sports",
+                        "train",
+                        "atm",
+                        "restaurant",
+                        "kindergarten",
+                        "medic",
+                        "school",
+                        "shop"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 6,
+                    "category_type_cb": 1,
+                    "locality": "plzen-radobycice-u-krizovatky"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 0,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/3156253532",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/3156253532",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "U Křižovatky, Plzeň - Radobyčice",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gW_d/kPtLx7.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gW_d/kPtLx7.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/34?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/3156253532"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gW_d/kPtLx7.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gY_e/3jTLxU.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gU_d/cF4Ly7.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gW_d/kPtLx7.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 3156253532,
+                "attractive_offer": 0,
+                "price": 6900000,
+                "price_czk": {
+                    "value_raw": 6900000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 3+kk 80 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.698154,
+                    "lon": 13.392695
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [],
+                    []
+                ],
+                "has_panorama": 0,
+                "labels": [],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "brick",
+                        "cellar"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "theater",
+                        "tavern",
+                        "vet",
+                        "drugstore",
+                        "atm",
+                        "bus_public_transport",
+                        "train",
+                        "school",
+                        "medic",
+                        "tram",
+                        "post_office",
+                        "shop",
+                        "restaurant",
+                        "kindergarten",
+                        "sports"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 7,
+                    "category_type_cb": 1,
+                    "locality": "plzen-vychodni-predmesti-hradistska"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 1,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/2290019164",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/2290019164",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    },
+                    "company": {
+                        "url": "Tode-realitni-kancelar-Plzen-Doubravka",
+                        "id": 21256,
+                        "name": "Tode realitní kancelář",
+                        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_E_I/e4LBQL.png?fl=res,140,140,3,ffffff"
+                    }
+                },
+                "paid_logo": 1,
+                "locality": "Hradišťská, Plzeň - Východní Předměstí",
+                "has_video": true,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QR_Lu/X76F68.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QR_Lu/X76F68.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/35?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/2290019164"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QR_Lu/X76F68.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QK_JP/yOoF8Q.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gZ_f/Id9F6c.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QR_Lu/X76F68.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 2290019164,
+                "attractive_offer": 0,
+                "price": 3980000,
+                "price_czk": {
+                    "value_raw": 3980000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 3+1 80 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.7342,
+                    "lon": 13.39003
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [
+                        "loggia"
+                    ],
+                    [
+                        "shop"
+                    ]
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Lodžie",
+                    "Obchod 5 min. pěšky"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "loggia",
+                        "panel",
+                        "cellar",
+                        "furnished"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "tram",
+                        "medic",
+                        "school",
+                        "post_office",
+                        "drugstore",
+                        "atm",
+                        "bus_public_transport",
+                        "restaurant",
+                        "kindergarten",
+                        "sports",
+                        "train",
+                        "shop"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 7,
+                    "category_type_cb": 1,
+                    "locality": "plzen-bolevec-manetinska"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 0,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/3924020060",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/3924020060",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "Manětínská, Plzeň - Bolevec",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QP_Kg/HZnP7i.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QP_Kg/HZnP7i.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/36?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/3924020060"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QP_Kg/HZnP7i.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jj/ebSQAB.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QR_Lu/XJEP6U.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QP_Kg/HZnP7i.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 3924020060,
+                "attractive_offer": 0,
+                "price": 4290000,
+                "price_czk": {
+                    "value_raw": 4290000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 3+1 71 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.782104,
+                    "lon": 13.367571
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [],
+                    []
+                ],
+                "has_panorama": 0,
+                "labels": [],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "brick",
+                        "cellar"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "theater",
+                        "tavern",
+                        "vet",
+                        "tram",
+                        "bus_public_transport",
+                        "kindergarten",
+                        "sports",
+                        "drugstore",
+                        "school",
+                        "atm",
+                        "restaurant",
+                        "train",
+                        "shop",
+                        "medic",
+                        "post_office"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 7,
+                    "category_type_cb": 1,
+                    "locality": "plzen-vychodni-predmesti-guldenerova"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 0,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/4250954332",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/4250954332",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    },
+                    "company": {
+                        "url": "EDEN-reality-Michal-Musek-Plzen-Jizni-Predmesti",
+                        "id": 3156,
+                        "name": "EDEN reality - Michal Mušek",
+                        "logo_small": "https://d48-a.sdn.cz/d_48/c_img_G_B/IDeOrR.png?fl=res,140,140,3,ffffff"
+                    }
+                },
+                "paid_logo": 1,
+                "locality": "Guldenerova, Plzeň - Východní Předměstí",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_LK/8iLTHQ.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_LK/8iLTHQ.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/37?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/4250954332"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_LK/8iLTHQ.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QN_Jj/W6nTIJ.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/nZ2TKE.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QQ_LK/8iLTHQ.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 4250954332,
+                "attractive_offer": 0,
+                "price": 4190000,
+                "price_czk": {
+                    "value_raw": 4190000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 3+1 85 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.739887,
+                    "lon": 13.39593
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [
+                        "partly_furnished"
+                    ],
+                    []
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Částečně vybavený"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "brick",
+                        "cellar",
+                        "partly_furnished"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "atm",
+                        "school",
+                        "shop",
+                        "restaurant",
+                        "kindergarten",
+                        "drugstore",
+                        "bus_public_transport",
+                        "medic",
+                        "sports",
+                        "train",
+                        "tram",
+                        "post_office"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 6,
+                    "category_type_cb": 1,
+                    "locality": "plzen-lobzy-zivnostenska"
+                },
+                "exclusively_at_rk": 0,
+                "category": 1,
+                "has_floor_plan": 0,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/991992668",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/991992668",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "Živnostenská, Plzeň - Lobzy",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/QrESjj.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/QrESjj.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/38?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/991992668"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/QrESjj.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QJ_JU/9yYSfW.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QI_JP/1PDSdz.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_QM_KH/QrESjj.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 991992668,
+                "attractive_offer": 0,
+                "price": 4190000,
+                "price_czk": {
+                    "value_raw": 4190000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 3+kk 74 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.747509,
+                    "lon": 13.406754
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [
+                        "loggia",
+                        "partly_furnished"
+                    ],
+                    [
+                        "post_office"
+                    ]
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Lodžie",
+                    "Částečně vybavený",
+                    "Pošta 4 min. pěšky"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "personal",
+                        "loggia",
+                        "panel",
+                        "cellar",
+                        "elevator",
+                        "partly_furnished"
+                    ],
+                    [
+                        "candy_shop",
+                        "playground",
+                        "movies",
+                        "small_shop",
+                        "tavern",
+                        "theater",
+                        "vet",
+                        "shop",
+                        "drugstore",
+                        "atm",
+                        "bus_public_transport",
+                        "school",
+                        "post_office",
+                        "train",
+                        "kindergarten",
+                        "tram",
+                        "restaurant",
+                        "medic",
+                        "sports"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 7,
+                    "category_type_cb": 1,
+                    "locality": "plzen-severni-predmesti-straznicka"
+                },
+                "exclusively_at_rk": 1,
+                "category": 1,
+                "has_floor_plan": 1,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/53402204",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/53402204",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "Strážnická, Plzeň - Severní Předměstí",
+                "has_video": false,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gX_b/wFolmW.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gX_b/wFolmW.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/39?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/53402204"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gX_b/wFolmW.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gX_b/CRXlmX.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gW_b/2vyli4.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gX_b/wFolmW.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 53402204,
+                "attractive_offer": 0,
+                "price": 3890000,
+                "price_czk": {
+                    "value_raw": 3890000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 3+1 79 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.761032,
+                    "lon": 13.354496
+                },
+                "has_matterport_url": false
+            },
+            {
+                "labelsReleased": [
+                    [
+                        "new_building"
+                    ],
+                    [
+                        "shop"
+                    ]
+                ],
+                "has_panorama": 0,
+                "labels": [
+                    "Novostavba",
+                    "Obchod 2 min. pěšky"
+                ],
+                "is_auction": false,
+                "labelsAll": [
+                    [
+                        "new_building",
+                        "personal",
+                        "brick",
+                        "cellar",
+                        "elevator",
+                        "furnished"
+                    ],
+                    [
+                        "candy_shop",
+                        "movies",
+                        "playground",
+                        "small_shop",
+                        "theater",
+                        "tavern",
+                        "vet",
+                        "drugstore",
+                        "shop",
+                        "sports",
+                        "tram",
+                        "medic",
+                        "bus_public_transport",
+                        "kindergarten",
+                        "school",
+                        "atm",
+                        "restaurant",
+                        "post_office",
+                        "train"
+                    ]
+                ],
+                "seo": {
+                    "category_main_cb": 1,
+                    "category_sub_cb": 6,
+                    "category_type_cb": 1,
+                    "locality": "plzen-severni-predmesti-otylie-beniskove"
+                },
+                "exclusively_at_rk": 1,
+                "category": 1,
+                "has_floor_plan": 1,
+                "_embedded": {
+                    "favourite": {
+                        "is_favourite": false,
+                        "_links": {
+                            "self": {
+                                "profile": "/favourite/doc",
+                                "href": "/cs/v2/favourite/2227984988",
+                                "title": "Oblibene inzeraty"
+                            }
+                        }
+                    },
+                    "note": {
+                        "note": "",
+                        "_links": {
+                            "self": {
+                                "profile": "/note/doc",
+                                "href": "/cs/v2/note/2227984988",
+                                "title": "Poznamky inzeratu"
+                            }
+                        },
+                        "has_note": false
+                    }
+                },
+                "paid_logo": 0,
+                "locality": "Otýlie Beníškové, Plzeň - Severní Předměstí",
+                "has_video": true,
+                "_links": {
+                    "dynamicDown": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gX_c/BoPpxY.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "dynamicUp": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gX_c/BoPpxY.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+                        }
+                    ],
+                    "iterator": {
+                        "href": "/cs/v2/estate-iterator/40?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+                    },
+                    "self": {
+                        "href": "/cs/v2/estates/2227984988"
+                    },
+                    "images": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gX_c/BoPpxY.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gV_b/Ao8pxf.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        },
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gU_c/2v0p1x.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ],
+                    "image_middle2": [
+                        {
+                            "href": "https://d18-a.sdn.cz/d_18/c_img_gX_c/BoPpxY.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+                        }
+                    ]
+                },
+                "new": false,
+                "auctionPrice": 0,
+                "type": 1,
+                "hash_id": 2227984988,
+                "attractive_offer": 0,
+                "price": 7299000,
+                "price_czk": {
+                    "value_raw": 7299000,
+                    "unit": "",
+                    "name": "Celková cena"
+                },
+                "rus": false,
+                "name": "Prodej bytu 3+kk 83 m²",
+                "region_tip": 0,
+                "gps": {
+                    "lat": 49.753281,
+                    "lon": 13.378184
+                },
+                "has_matterport_url": false
+            }
+        ],
+        "is_saved": {
+            "email_notification": false,
+            "notification_advert_count": 0,
+            "stack_id": 0,
+            "push_notification": false,
+            "_links": {
+                "self": {
+                    "href": "/cs/v2/stacks"
+                }
+            },
+            "removed": false,
+            "saved": false
+        },
+        "not_precise_location_count": {
+            "result_size_auction": 0,
+            "result_size": 23,
+            "_links": {
+                "self": {
+                    "profile": "/estates/count/doc",
+                    "href": "/cs/v2/estates/count?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&locality_region_id=2&category_type_cb=3",
+                    "title": "Estate count"
+                }
+            }
+        }
+    },
+    "filterLabels": [],
+    "title": "Byty 2+1, 3+kk, 3+1, 4+kk na prodej Plzeň-město, plocha od 60 m²",
+    "filter": {
+        "category_main_cb": "1",
+        "locality_district_id": "12",
+        "category_sub_cb": "5|6|7|8",
+        "usable_area": "60|10000000000",
+        "suggested_regionId": -1,
+        "suggested_districtId": -1,
+        "locality_region_id": "2",
+        "category_type_cb": "1"
+    },
+    "_links": {
+        "self": {
+            "href": "/cs/v2/estates?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&category_type_cb=1&locality_region_id=2&page=2"
+        },
+        "clusters_with_bounding_box_of_first_10": {
+            "href": "/cs/v2/clusters?category_main_cb=1&locality_district_id=12&tms=1632290181845&locality_region_id=2&category_sub_cb=5|6|7|8&usable_area=60|10000000000&category_type_cb=1&per_page=20&leftBottomBounding=13.354028|49.725502&page=2&rightTopBounding=13.416023|49.777397"
+        },
+        "rss": {
+            "href": "/api/cs/v2/estates/rss?category_main_cb=1&locality_district_id=12&category_sub_cb=5|6|7|8&usable_area=60|10000000000&suggested_regionId=-1&suggested_districtId=-1&locality_region_id=2&category_type_cb=1"
+        }
+    },
+    "locality": "okres Plzeň-město",
+    "locality_dativ": "na Plzni-městě",
+    "logged_in": true,
+    "per_page": 20,
+    "category_instrumental": "výběrem či prodejem bytu",
+    "page": 2,
+    "filterLabels2": {
+        "something_more3_3310": "elevator",
+        "furnished_1": "furnished",
+        "furnished_2": "partly_furnished",
+        "furnished_3": "not_furnished",
+        "building_type_search_1": "panel",
+        "something_more1_3120": "cellar",
+        "building_condition_6": "new_building",
+        "something_more1_3100": "loggia",
+        "something_more1_3090": "balcony",
+        "something_more1_3110": "terrace",
+        "building_condition_4": "in_construction",
+        "something_more2_3150": "garage",
+        "something_more3_1820": "easy_access",
+        "building_type_search_3": "other_sigular",
+        "something_more2_3130": "basin",
+        "building_condition_9": "after_reconstruction",
+        "building_type_search_2": "brick",
+        "ownership_1": "personal",
+        "something_more2_3140": "parking_lots",
+        "ownership_3": "state",
+        "ownership_2": "collective"
+    }
+}
