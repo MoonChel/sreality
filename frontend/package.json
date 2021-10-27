@@ -1,0 +1,15 @@
+{
+  "name": "frontend",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chart.js": "^3.6.0",
+    "chota": "^0.8.0",
+    "gridsome": "^0.7.0"
+  }
+}
