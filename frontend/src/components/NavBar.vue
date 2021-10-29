@@ -5,9 +5,7 @@
       <a>Link 2</a>
     </div>
     <div class="nav-center">
-      <a class="brand">
-        <img src="logo.svg" alt="" />
-      </a>
+      <a class="brand"> Brand </a>
     </div>
     <div class="nav-right">
       <a>Link 3</a>

@@ -6,8 +6,8 @@ from dataclasses import dataclass
 @dataclass
 class Company:
     id: int
-    ico: Optional[int]
     name: str
+    ico: Optional[int]
 
 
 class EstateType(enum.Enum):
@@ -35,8 +35,9 @@ class Gps:
 @dataclass
 class Locality:
     city: str
-    district: str
-    region: str
+    region: Optional[str] = None
+    street: Optional[str] = None
+    district: Optional[str] = None
 
 
 @dataclass
@@ -55,3 +56,7 @@ class Result:
     result_size: int
     total_number: int
     estates: List[Estate]
+    min_price: int = 0
+    max_price: int = 0
+    min_size: int = 0
+    max_size: int = 0

@@ -8,6 +8,15 @@ import httpx
 
 from .data_models import EstateType, Locality, Estate, Company, Gps, Estate
 
+import re
+
+RE_ADDRESSES = [
+    re.compile(r"(?P<street>[\D \d]+), (?P<city>\D+)"),
+    re.compile(r"(?P<city>\D+) - (?P<district>\D+)"),
+    re.compile(r"(?P<city>\D+) - (?P<district>\D+), (?P<region>\D+)"),
+    re.compile(r"(?P<street>[\D \d]+), (?P<city>\D+) - (?P<district>\D+)"),
+]
+
 
 class InvalidEstate(Exception):
     pass
@@ -26,6 +35,7 @@ def parse_name(name: str) -> Tuple[EstateType, int]:
         " m2",
         " (Mezonet)",
         " (Podkrovní)",
+        " (Loft)",
     ]
 
     name = normilize(name)
@@ -40,18 +50,16 @@ def parse_name(name: str) -> Tuple[EstateType, int]:
 
 def parse_locality(locality: str) -> Optional[Locality]:
     # Plzeň - Jižní Předměstí, okres Plzeň-město
-    if " - " in locality:
-        city, district_region = locality.split(" - ")
-        district, region = district_region.split(", ")
-    else:
-        city = ""
-        district, region = locality.split(", ")
+    # Merhautova, Brno - Černá Pole
+    result_locality = None
 
-    return Locality(
-        city=city,
-        district=district,
-        region=region,
-    )
+    for re_address in RE_ADDRESSES:
+        match = re_address.match(locality)
+
+        if match:
+            result_locality = Locality(**match.groupdict())
+
+    return result_locality
 
 
 async def parse_one(r: Dict) -> Estate:

@@ -30,4 +30,10 @@ async def sreality(url: str) -> Result:
 
     result.result_size = len(result.estates)
 
+    # additional params for charts
+    result.min_price = min(result.estates, key=lambda x: x.price).price
+    result.max_price = max(result.estates, key=lambda x: x.price).price
+    result.min_size = min(result.estates, key=lambda x: x.size).size
+    result.max_size = max(result.estates, key=lambda x: x.size).size
+
     return result
