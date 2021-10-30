@@ -124,7 +124,7 @@ async def paginate(params: Dict, per_page: int = 20) -> Tuple[List[Dict], int]:
             *[make_request(client, params, page, per_page) for page in page_range]
         )
 
-    return respondes_json, total_number
+    return respondes_json
 
 
 async def make_request(

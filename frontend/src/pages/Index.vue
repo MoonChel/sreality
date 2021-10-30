@@ -21,6 +21,8 @@
     </template>
 
     <template v-if="estates">
+      <h2>{{ estates.title }}</h2>
+
       <div class="row">
         <div class="col">
           <canvas id="chart-price-vs-district" height="400"></canvas>
@@ -50,7 +52,7 @@ const maxSizeWindow = 10;
 export default {
   data() {
     return {
-      url: "https://www.sreality.cz/api/cs/v2/estates?category_main_cb=1&category_sub_cb=6%7C4%7C5%7C7&category_type_cb=1&czk_price_summary_order2=0%7C6000000&locality_district_id=72&locality_region_id=14&ownership=1&per_page=20&tms=1635534837206",
+      url: "https://www.sreality.cz/hledani/prodej/byty/brno?pois_in_place_distance=2&pois_in_place=2&navic=balkon&velikost=3%2Bkk,2%2Bkk,2%2B1,3%2B1&vlastnictvi=osobni&stav=velmi-dobry-stav&patro-od=1&patro-do=10&plocha-od=20&plocha-do=100&cena-od=0&cena-do=6000000",
       estates: null,
       isLoading: false,
     };
@@ -70,7 +72,7 @@ export default {
       this.isLoading = false;
     },
     initPriceVsDistrictChart() {
-      const chart = new Chart("chart-price-vs-district", {
+      new Chart("chart-price-vs-district", {
         type: "scatter",
         data: {
           datasets: [

@@ -53,6 +53,7 @@ class Estate:
 
 @dataclass
 class Result:
+    title: str
     result_size: int
     total_number: int
     estates: List[Estate]

@@ -3,22 +3,23 @@ from urllib.parse import urlparse, parse_qsl
 
 from .data_models import Result
 from .utils import paginate, parse
+from .url_parser import url_parser
 
 
 async def sreality(url: str) -> Result:
-    parsed_url = urlparse(url)
-    params = dict(parse_qsl(parsed_url.query))
+    params = url_parser(url)
 
-    resp_json, total_number = await paginate(params, per_page=20)
+    resps_json = await paginate(params, per_page=20)
 
     result = Result(
         estates=[],
         result_size=0,
-        total_number=total_number,
+        title=resps_json[0]["meta_description"].split(".")[0] + ".",
+        total_number=resps_json[0]["result_size"],
     )
 
     estates = await asyncio.gather(
-        *[parse(rj) for rj in resp_json],
+        *[parse(rj) for rj in resps_json],
         return_exceptions=True,
     )
 
