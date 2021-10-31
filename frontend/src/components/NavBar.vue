@@ -2,14 +2,12 @@
   <nav class="nav">
     <div class="nav-left">
       <a class="active">Link 1</a>
-      <a>Link 2</a>
     </div>
     <div class="nav-center">
-      <a class="brand"> Brand </a>
+      <g-link to="/"> <h3>Domu</h3> </g-link>
     </div>
     <div class="nav-right">
-      <a>Link 3</a>
-      <a>Link 4</a>
+      <g-link to="/about">Základní informace</g-link>
     </div>
   </nav>
 </template>
