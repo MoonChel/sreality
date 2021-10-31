@@ -8,7 +8,7 @@ app = FastAPI()
 
 origins = [
     "http://localhost:8080",
-    "https://werst.xyz",
+    "https://sreality-jxlws.ondigitalocean.app",
 ]
 
 app.add_middleware(

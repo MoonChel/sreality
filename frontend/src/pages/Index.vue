@@ -2,6 +2,7 @@
   <Layout>
     <div class="row">
       <div class="col text-center">
+        <h4 class="text-center">Copy paste url from sreality filter page</h4>
         <input
           v-model="url"
           type="text"
@@ -53,7 +54,7 @@ const maxSizeWindow = 10;
 export default {
   data() {
     return {
-      url: "https://www.sreality.cz/hledani/prodej/byty/brno?pois_in_place_distance=2&pois_in_place=2&navic=balkon&velikost=3%2Bkk,2%2Bkk,2%2B1,3%2B1&vlastnictvi=osobni&stav=velmi-dobry-stav&patro-od=1&patro-do=10&plocha-od=20&plocha-do=100&cena-od=0&cena-do=6000000",
+      url: "",
       estates: null,
       isLoading: false,
     };
@@ -78,7 +79,7 @@ export default {
         data: {
           datasets: [
             {
-              label: "Cena in Kč vs Čtvrť",
+              label: "Price in Kč vs District",
               data: orderBy(this.estates.estates, ["price"], ["asc"]),
               backgroundColor: "rgba(255, 99, 132, 0.5)",
             },
@@ -109,7 +110,7 @@ export default {
         data: {
           datasets: [
             {
-              label: "Typ vs Cena",
+              label: "Type vs Price",
               data: orderBy(this.estates.estates, ["et_type"], ["asc"]),
               backgroundColor: "rgba(255, 99, 132, 0.5)",
             },
@@ -140,7 +141,7 @@ export default {
         data: {
           datasets: [
             {
-              label: "Velikost (M2) vs Cena",
+              label: "Size (M2) vs Price",
               data: orderBy(this.estates.estates, ["price"], ["asc"]),
               backgroundColor: "rgba(255, 99, 132, 0.5)",
             },
