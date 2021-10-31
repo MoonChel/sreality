@@ -1,5 +1,10 @@
 api_query = {
-    "category_type_cb": {"0": "vse", "1": "prodej", "2": "pronajem", "3": "drazby"},
+    "category_type_cb": {
+        "0": "vse",
+        "1": "prodej",
+        "2": "pronajem",
+        "3": "drazby",
+    },
     "category_type_cb_detail": {
         "0": "vse",
         "1": "prodej",

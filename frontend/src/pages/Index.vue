@@ -42,6 +42,7 @@
 </template>
 
 <script>
+import orderBy from "lodash/orderBy";
 import { Chart } from "chart.js";
 
 const minPriceWindow = 1000000;
@@ -77,8 +78,8 @@ export default {
         data: {
           datasets: [
             {
-              label: "Price in CZK vs District",
-              data: this.estates.estates,
+              label: "Cena in Kč vs Čtvrť",
+              data: orderBy(this.estates.estates, ["price"], ["asc"]),
               backgroundColor: "rgba(255, 99, 132, 0.5)",
             },
           ],
@@ -108,8 +109,8 @@ export default {
         data: {
           datasets: [
             {
-              label: "Type vs Price",
-              data: this.estates.estates,
+              label: "Typ vs Cena",
+              data: orderBy(this.estates.estates, ["et_type"], ["asc"]),
               backgroundColor: "rgba(255, 99, 132, 0.5)",
             },
           ],
@@ -139,8 +140,8 @@ export default {
         data: {
           datasets: [
             {
-              label: "Size in M2 vs Price",
-              data: this.estates.estates,
+              label: "Velikost (M2) vs Cena",
+              data: orderBy(this.estates.estates, ["price"], ["asc"]),
               backgroundColor: "rgba(255, 99, 132, 0.5)",
             },
           ],

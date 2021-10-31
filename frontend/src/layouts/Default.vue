@@ -1,7 +1,7 @@
 <template>
   <div>
     <nav-bar></nav-bar>
-    <div style="padding: 1em">
+    <div style="padding: 5em">
       <slot />
     </div>
   </div>
