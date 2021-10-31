@@ -12,6 +12,11 @@ function showNotification(notify) {
             return response
         },
         function (error) {
+            if (!error.response) {
+                notify({ type: 'error', text: 'Network error, try again later' })
+                return Promise.reject(error);
+            }
+
             if (error.code === 'ECONNABORTED') {
                 notify({ type: 'error', text: 'Timeout error, try again later' })
                 return Promise.reject(error);
