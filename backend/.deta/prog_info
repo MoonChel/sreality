@@ -1,0 +1,1 @@
+{"id":"f6466621-640a-45c3-910c-f200069aa532","space":3510,"runtime":"python3.9","name":"sreality_deta","path":"opezan","project":"a0er97z9","account":"144798365827","region":"eu-central-1","deps":["fastapi","uvicorn","httpx"],"envs":null,"public":true,"log_level":"debug","cron":""}
