@@ -31,6 +31,7 @@ def parse_name(name: str) -> Tuple[EstateType, int]:
     replaces = [
         "Dražba bytu ",
         "Prodej bytu ",
+        "Pronájem bytu ",
         " m²",
         " m2",
         " (Mezonet)",

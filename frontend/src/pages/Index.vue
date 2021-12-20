@@ -97,8 +97,8 @@ export default {
               type: "category",
             },
             y: {
-              min: this.estates.min_price - minPriceWindow,
-              max: this.estates.max_price + maxPriceWindow,
+              min: this.estates.min_price + this.estates.min_price,
+              max: this.estates.max_price - this.estates.min_price,
             },
           },
         },
@@ -128,8 +128,8 @@ export default {
               type: "category",
             },
             y: {
-              min: this.estates.min_price - minPriceWindow,
-              max: this.estates.max_price + maxPriceWindow,
+              min: this.estates.min_price + this.estates.min_price,
+              max: this.estates.max_price - this.estates.min_price,
             },
           },
         },
@@ -160,8 +160,8 @@ export default {
               max: this.estates.max_size + maxSizeWindow,
             },
             y: {
-              min: this.estates.min_price - minPriceWindow,
-              max: this.estates.max_price + maxPriceWindow,
+              min: this.estates.min_price + this.estates.min_price,
+              max: this.estates.max_price - this.estates.min_price,
             },
           },
         },
